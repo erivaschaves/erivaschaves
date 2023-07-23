@@ -1,8 +1,8 @@
 ### Olá 👋
 
-- 🔭 Hoje estou trabalhando como call center  ...
-- 🌱 Estou estudando inglês, html e css ...
-- 😄 Pronouns: ele/ dele
+- 🔭 Hoje estou trabalhando como call center, cientista da computação em ascenção.
+- 🌱 Estou estudando inglês, html e css.
+- 😁 Gamer e nerd nas horas vagas.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erivaschaves&show_icons=true&theme=dark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erivaschaves&layout=compact)
