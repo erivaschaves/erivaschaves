@@ -1,6 +1,6 @@
 ### Olá Me Chamo Erivaldo Chaves  👋
 
-- 🔭 Hoje estou trabalhando como call center, cientista da computação em ascenção.
+- 🔭 Cientista da computação em ascenção.
 - 🌱 Estou estudando inglês, html e css.
 - 😁 Gamer e Nerd nas horas vagas.
 
