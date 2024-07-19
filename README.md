@@ -1,7 +1,7 @@
 ### Olá Me Chamo Erivaldo Chaves  👋
 
 - 🔭 Cientista da computação em ascenção.
-- 🌱 Estou estudando html,css e javaScript.
+- 🌱 Estou estudando Html, Css e JavaScript.
 - 😁 Gamer e Nerd nas horas vagas.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erivaschaves&show_icons=true&theme=dark) 
